@@ -1,1 +1,1 @@
-# instagram-glowing-animation-effects
+# Glowing-animation-effects
